@@ -1,0 +1,5 @@
+*.o
+
+shell
+scheduler-shell
+prog
